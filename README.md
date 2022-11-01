@@ -69,7 +69,8 @@
 </a>
 <a href="https://github.com/AlexFlavio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://kenzie-portfolio-alex-flavio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portifolio"/> </a>
 </div>  
   
 
