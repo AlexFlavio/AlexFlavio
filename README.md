@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Olá sou Alex, um desenvolvedor Full-Stack 👨‍💻 em busca da primeira vaga 🚀</div>  
+### <div align="center">Olá sou Alex, um desenvolvedor WEB Full-Stack / RPA Python 👨‍💻</div>  
   
 
 <br/>  
